@@ -1,5 +1,5 @@
 main: "Google Ads.ipynb"
 title: "Calculating Payback on Google Ads Campaigns"
-description: "This report provides a step by step guide to analyse the Google Ads data for one quarter to analyse teh payback performace of a  ad campaigns"
+description: "This is a step by step guide to analyse Google Ads data and visualize the payback performace of ad campaigns over one quarter"
 tags:
   - google-ads
